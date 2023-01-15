@@ -20,12 +20,15 @@ Ph.D. track; Plant Breeding, Genetics and Biotechnology, Michigan State Universi
 ## Grants and Awards
 
 2019  
- - Graduate Office Fellowship - $1000  
+ - Graduate Office Fellowship - $1000    
+
 2020  
  - Selma Cafe Aspiring Grower Impact Grant - $3000
- - "Gene Editing to Advance Plant Breeding" 2020 MSU/Corteva Plant Breeding and Biotechnology Symposia Series -- Co-chairs **Kathleen Rhoades** and Charity Goeckeritz - $6000
+ - "Gene Editing to Advance Plant Breeding" 2020 MSU/Corteva Plant Breeding and Biotechnology Symposia Series -- Co-chairs **Kathleen Rhoades** and Charity Goeckeritz - $6000  
+
 2021  
- - "Breeding Orphan Crops for Sustainable Food Systems" 2021 MSU/Corteva Plant Breeding and Biotechnology Symposia Series -- Co-chairs **Kathleen Rhoades** and Charity Goeckeritz - $3000
+ - "Breeding Orphan Crops for Sustainable Food Systems" 2021 MSU/Corteva Plant Breeding and Biotechnology Symposia Series -- Co-chairs **Kathleen Rhoades** and Charity Goeckeritz - $3000  
+
 2022
  - "Plant Reproductive Biology" 2022 MSU/Corteva Plant Breeding and Biotechnology Symposia Series -- Co-chairs **Kathleen Rhoades** and Charity Goeckeritz - $6000
 
