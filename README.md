@@ -4,7 +4,8 @@ I am a Ph.D. candidate in Plant Breeding, Genetics & Biotechnology in the Depart
 
 ## Education 
  
-B.S. Biological Sciences, Cornell University, graduated May 2015
+B.S. Biological Sciences, Cornell University, graduated May 2015  
+
 Ph.D. track; Plant Breeding, Genetics and Biotechnology, Michigan State University, anticipated graduation summer 2023
 
 ## Research Experience  
