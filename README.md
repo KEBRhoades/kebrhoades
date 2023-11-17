@@ -1,12 +1,12 @@
 ## About 
  
-I am a Ph.D. candidate in Plant Breeding, Genetics & Biotechnology in the Department of Horticulture at Michigan State University. I plan to defend my dissertation in the summer of 2023 and find work as a plant breeder in the private or non-profit sector. 
+I have a Ph.D. in Plant Breeding, Genetics & Biotechnology from the Department of Horticulture at Michigan State University. Currently I work at [the Savanna Institute](https://www.savannainstitute.org/) as a tree crop breeder.  
 
 ## Education 
  
 B.S. Biological Sciences, Cornell University, graduated May 2015  
 
-Ph.D. track; Plant Breeding, Genetics and Biotechnology, Michigan State University, anticipated graduation fall 2023
+Ph.D. Plant Breeding, Genetics and Biotechnology, Michigan State University, defended November 2023
 
 ## Research Experience  
 
@@ -50,12 +50,14 @@ Bird, K. A., Jacobs, M., Sebolt, A., **Rhoades, K.**, Alger, E. I., Colle, M., A
 
 **Rhoades, K. E. B.**, Iezzoni, A. F. *Homoeologous exchange and subgenome content in a diverse panel of allopolyploid sour cherry, Prunus cerasus L.* Poster presented at the Plant and Animal Genome meeting, San Diego, CA. 
 
+Goeckeritz CZ, **Rhoades KE**, Childs KL, Iezzoni AF, VanBuren R, Hollender CA. 2023. Genome of tetraploid sour cherry (Prunus cerasus L.) ‘Montmorency’ identifies three distinct ancestral Prunus genomes. Hortic Res. 10(7):uhad097. doi:10.1093/hr/uhad097.
+
 ## University Service and Extramural Activities
 
 *March 2018 - August 2019* RosBREED Extension Team member  
 *September 2019 - August 2020* Dept. of Horticulture Graduate Programs Committee, graduate student representative  
 *June 2020 - June 2022* Dept. of Horticulture Diversity, Equity and Inclusion committee, member  
-*August 2020 - present* Plant Breeding, Genetics, and Biotechnology Program student representative  
+*August 2020 - December 2022* Plant Breeding, Genetics, and Biotechnology Program student representative  
 
 ## Technical skills  
 
